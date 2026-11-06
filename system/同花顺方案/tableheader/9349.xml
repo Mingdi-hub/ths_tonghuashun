@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Table TableID="9349" CustomTableHeader="0">
+	<Leaf Name="板块名称" DataID="12343" SchemaName="名称靠左" Period="65535" Width="112" ShowName="板块名称" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="标记" DataID="1121" SchemaName="代码1" Period="65535" Width="20" ShowName="." TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="涨幅" DataID="199112" SchemaName="涨跌幅" Period="65535" Width="59" ShowName="涨幅" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="GS策略" DataID="330238" SchemaName="文本" Period="0" Width="84" ShowName="GS策略" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="主力资金" DataID="330243" SchemaName="金额自动正红负绿" Period="0" Width="96" ShowName="主力资金" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="AI机构" DataID="1283" SchemaName="颜色蓝2" Period="65535" Width="94" ShowName="AI机构" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="4分钟涨速" DataID="48" SchemaName="涨跌幅" Period="65535" Width="100" ShowName="4分钟涨速" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="涨停数" DataID="271" SchemaName="阳" Period="65535" Width="79" ShowName="涨停数" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="主力净量" DataID="68285" SchemaName="正负文本" Period="0" Width="79" ShowName="主力净量" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="主力金额" DataID="592890" SchemaName="金额自动正负" Period="0" Width="91" ShowName="主力金额" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="量比" DataID="1771976" SchemaName="周量比" Period="0" Width="51" ShowName="量比" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="年初至今" DataID="461346" SchemaName="涨跌幅" Period="28673" Width="90" ShowName="年初至今" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="20160127至今" DataID="330342" SchemaName="涨跌幅" Period="65535" Width="110" ShowName="20160127至今" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="涨家数" DataID="12326" SchemaName="阳" Period="65535" Width="85" ShowName="涨家数" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="跌家数" DataID="12327" SchemaName="阴" Period="65535" Width="76" ShowName="跌家数" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="领涨股" DataID="331151" SchemaName="股本" Period="0" Width="92" ShowName="领涨股" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="5日涨幅" DataID="3250" SchemaName="涨跌幅" Period="0" Width="80" ShowName="5日涨幅" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="10日涨幅" DataID="3251" SchemaName="涨跌幅" Period="0" Width="80" ShowName="10日涨幅" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="20日涨幅" DataID="3252" SchemaName="涨跌幅" Period="0" Width="80" ShowName="20日涨幅" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="总手" DataID="20493" SchemaName="成交量自动" Period="65535" Width="90" ShowName="总手" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="总金额" DataID="20499" SchemaName="金额亿不显" Period="65535" Width="80" ShowName="总金额" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="总市值" DataID="3541450" SchemaName="金额亿不显" Period="0" Width="95" ShowName="总市值" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="流通市值" DataID="90" SchemaName="成交金额自动" Period="65535" Width="105" ShowName="流通市值" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/>
+	<Leaf Name="股市日记" DataID="13408" SchemaName="名称靠右" Period="65535" Width="24" ShowName="  " TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="概念解析" DataID="199889" SchemaName="文本灰" Period="65535" Width="112" ShowName="概念解析" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="创建日期" DataID="199952" SchemaName="时间" Period="65535" Width="86" ShowName="创建日期" TableGridOps="0" TableItemNoCalcOps="0" setday="0" days=""/>
+	<Leaf Name="1分钟涨速" DataID="527527" SchemaName="涨跌幅" Period="8192" Width="100" ShowName="1分钟涨速" TableGridOps="0" TableItemNoCalcOps="4" setday="0" days=""/></Table>
